@@ -1,11 +1,11 @@
 # Serial LCD I2C Module with chip PCF8574
 Example of use with components "Serial LCD I2C Module with chip PCF8574" and "16x2 LCD Display White-Blue LED Backlight".
 
-This code (download [here](./sample/informations/informations.ino){target="_blank"} the complete and with comments) to execute in the Arduino UNO.
+This code (download [here](./sample/informations/informations.ino) the complete and with comments) to execute in the Arduino UNO.
 
-Note this code the value of "LCD_ADDR" is 0x3F is not 0x20. Use the project [here](./sample/scanner/scanner.ino){target="_blank"} (find in the web, I not created)  to get address to module.
+Note this code the value of "LCD_ADDR" is 0x3F is not 0x20. Use the project [here](./sample/scanner/scanner.ino) (find in the web, I not created)  to get address to module.
 
-I use the [New LiquidCrystal](https://bitbucket.org/fmalpartida/new-liquidcrystal/wiki/Home){target="_blank"} libray to execute this project.
+I use the [New LiquidCrystal](https://bitbucket.org/fmalpartida/new-liquidcrystal/wiki/Home) libray to execute this project.
 
 ```
 /*
@@ -190,21 +190,21 @@ This images of the module is:
 
 |                                                                          |                                                                          |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
-| [![screenshot 1](./Figure_1_small.jpg)](./Figure_1.jpg){target="_blank"} | [![screenshot 1](./Figure_2_small.jpg)](./Figure_2.jpg){target="_blank"} |
-| [![screenshot 1](./Figure_3_small.jpg)](./Figure_3.jpg){target="_blank"} | [![screenshot 1](./Figure_4_small.jpg)](./Figure_4.jpg){target="_blank"} |
+| [![screenshot 1](./Figure_1_small.jpg)](./Figure_1.jpg) | [![screenshot 1](./Figure_2_small.jpg)](./Figure_2.jpg) |
+| [![screenshot 1](./Figure_3_small.jpg)](./Figure_3.jpg) | [![screenshot 1](./Figure_4_small.jpg)](./Figure_4.jpg) |
 
-This images of the breadboard, schematic and PCB are make in [Fritzing](https://fritzing.org/){target="_blank"} and download this project [here](./sample/sample.fzz) and [arduino](./sample/sample.ino){target="_blank"}:
+This images of the breadboard, schematic and PCB are make in [Fritzing](https://fritzing.org/) and download this project [here](./sample/sample.fzz) and [arduino](./sample/sample.ino):
 
 |                                                                                            |                                                                                                        |
 | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
-| [![screenshot 1](./sample/sample_bb_small.png)](./sample/sample_bb.png){target="_blank"}   | [![screenshot 1](./sample/sample_schematic_small.png)](./sample/sample_schematic.png){target="_blank"} |
-| [![screenshot 1](./sample/sample_pcb_small.png)](./sample/sample_pcb.png){target="_blank"} |                                                                                                        |
+| [![screenshot 1](./sample/sample_bb_small.png)](./sample/sample_bb.png)   | [![screenshot 1](./sample/sample_schematic_small.png)](./sample/sample_schematic.png) |
+| [![screenshot 1](./sample/sample_pcb_small.png)](./sample/sample_pcb.png) |                                                                                                        |
 
 Here have the figures showing running
 
 |                                                                                                |                                                                                                |
 | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| [![screenshot 1](./IMG_20200112_004319_small.jpg)](./IMG_20200112_004319.jpg){target="_blank"} | [![screenshot 1](./IMG_20200112_004332_small.jpg)](./IMG_20200112_004332.jpg){target="_blank"} |
-| [![screenshot 1](./IMG_20200112_004242_small.jpg)](./IMG_20200112_004242.jpg){target="_blank"} |                                                                                                |
+| [![screenshot 1](./IMG_20200112_004319_small.jpg)](./IMG_20200112_004319.jpg) | [![screenshot 1](./IMG_20200112_004332_small.jpg)](./IMG_20200112_004332.jpg) |
+| [![screenshot 1](./IMG_20200112_004242_small.jpg)](./IMG_20200112_004242.jpg) |                                                                                                |
 
 Thanks by see my works ;)
